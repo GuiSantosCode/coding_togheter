@@ -29,6 +29,11 @@ fazer sistema de checklist de dia estudado:
 
     informação de dias estudados do total de dias ate a data atual - ex: 10/15
 
+------------------------------------------------------------------------------------------------------------------------
+
 problemas:
+    linguagem?
+        python
     qual biblioteca visual usar?
+        django
     qual sistema de banco de dados usar?
