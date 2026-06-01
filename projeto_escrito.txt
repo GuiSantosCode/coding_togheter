@@ -28,4 +28,3 @@ fazer sistema de checklist de dia estudado:
 problemas:
     qual biblioteca visual usar?
     qual sistema de banco de dados usar?
-    
