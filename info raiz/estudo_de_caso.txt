@@ -76,4 +76,6 @@ total de temas: 8
 				aulas: 1
 			tópico 2: desafios
 				aulas: 6
-            total de aulas: 21
+            total de aulas: 7
+
+    total de aulas: 114
