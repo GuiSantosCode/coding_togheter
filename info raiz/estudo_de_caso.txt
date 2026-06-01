@@ -1,0 +1,81 @@
+fundamentos de redes de computadores
+
+total de temas: 8
+
+	tema 1: Introdução
+
+	tema 2: redes de computadores e a internet
+		tópicos: 4
+			tópico 1: conceitos básicos
+				aulas: 6
+			tópico 2: parâmetros de avaliação
+				aulas: 3
+			tópico 3: camadas de protocolo e modelos de serviço
+				aulas: 5
+			tópico 4: histórico da internet
+				aulas: 3
+			total de aulas: 17
+
+	tema 3: modelo de referência OSI e arquitetura
+		tópicos: 3
+			tópico 1: divisão de estrutura das redes em camadas
+				aulas: 4
+			tópico 2: camadas do modelo OSI
+				aulas: 6
+			tópico 3: camadas de arquitetura TCP/IP
+				aulas: 3
+			total de aulas: 17
+
+ 	tema 4: camadas de aplicação e transporte
+		tópicos: 4
+			tópico 1: arquiteturas e camada de aplicação
+				aulas: 5
+			tópico 2: serviços da camada de aplicação
+				aulas: 6	
+			tópico 3: elementos da camada de transporte
+				aulas: 4
+			tópico 4: serviços da camada de transporte
+				aulas: 7
+			total de aulas: 22
+
+	tema 5: camada de Rede
+		tópicos: 4
+			tópico 1: camada OSI
+				aulas: 6
+			tópico 2: configurações de rede IP
+				aulas: 5 
+			tópico 3: protocolos de controle
+				aulas: 3
+			tópico 4: algoritmos de roteamento
+				aulas: 3
+			total de aulas: 17
+
+	tema 6: camadas de enlace e física
+		tópicos: 3
+			tópico 1: camada física
+				aulas: 5
+			tópico 2: camada de enlace
+				aulas: 5
+			tópico 3: subcamada de acesso
+				aulas: 3
+			total de aulas: 13
+
+	tema 7: fundamentos de administração e segurança
+		tópicos: 3
+			tópico 1: riscos de segurança nas redes de computadores
+				aulas: 4
+			tópico 2: softwares e equipamentos para diminuição dos riscos
+				aulas: 10
+			tópico 3: arquitetura de gerenciamento de redes
+				aulas: 7
+			total de aulas: 21
+
+	tema 8: prepare
+		tópicos: 2
+			tópico 1: estudo de caso
+				aulas: 1
+			tópico 2: desafios
+				aulas: 6
+            total de aulas: 7
+
+    total de aulas: 114

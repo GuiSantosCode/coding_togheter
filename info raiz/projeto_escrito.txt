@@ -13,6 +13,7 @@ fazer sistema de checklist para cada arquivo, saber quantos arquivos tem por per
 
     barra de progresso do semestre ou até mesmo de cada tema
 
+
 ------------------------------------------------------------------------------------------------------------------------
 
 Responsavel: Ruan
