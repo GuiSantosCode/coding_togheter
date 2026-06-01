@@ -1,5 +1,6 @@
 ORGANIZAR FACULDADE
 
+Responsavel: Guilherme
 
 fazer sistema de checklist para cada arquivo, saber quantos arquivos tem por periodo:
 
@@ -13,6 +14,9 @@ fazer sistema de checklist para cada arquivo, saber quantos arquivos tem por per
     barra de progresso do semestre ou até mesmo de cada tema
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Responsavel: Ruan
+
 fazer sistema de checklist de dia estudado:
 
     com bolinhas para marcar os dias estudados e os não estudados
