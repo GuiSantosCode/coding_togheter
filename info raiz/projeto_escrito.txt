@@ -37,3 +37,4 @@ problemas:
     qual biblioteca visual usar?
         django
     qual sistema de banco de dados usar?
+    usar ambiente virtual?
