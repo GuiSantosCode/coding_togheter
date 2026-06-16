@@ -3,5 +3,5 @@ from django.http import HttpResponse
 
 
 def ola_mundo(request):
-    return HttpResponse("Olá mundo")
+    return HttpResponse("Olá, gui lindão!")
 # HttpResponse == envia uma resposta ao navegador
