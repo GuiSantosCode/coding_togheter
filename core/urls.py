@@ -1,3 +1,6 @@
+# urls == onde ficam as rotas do projeto
+
+
 from django.urls import path
     # django.urls == modulo de urls do django
     # path == função para criar um caminho/rotas
