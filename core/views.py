@@ -1,7 +1,5 @@
-from django.http import HttpResponse
-# django.htt == modulo de comunicação via protocolo HTTP
-
+from django.shortcuts import render
+    # render == ferramenta que renderiza o html
 
 def ola_mundo(request):
-    return HttpResponse("Olá, gui lindão!")
-# HttpResponse == envia uma resposta ao navegador
+    return render(request, 'index.html')

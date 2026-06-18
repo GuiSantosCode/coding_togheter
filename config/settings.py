@@ -54,7 +54,10 @@ ROOT_URLCONF = 'config.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR / 'templates'],
+            # 'DIRS' == onde o django vai procurar os arquivos html
+            # BASE_DIR == caminho da raiz do projeto
+            # 'templates' == pasta onde ficam os arquivos html
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
