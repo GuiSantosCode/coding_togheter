@@ -4,16 +4,16 @@
 from django.urls import path
     # django.urls == modulo de urls do django
     # path == função para criar um caminho/rotas
-from .views import ola_mundo
+from .views import pagina_um, pagina_dois
     # esta linha importa minha funcão ola_mundo do arquivo views.py
 
 
 urlpatterns = [
     # urlpatterns == lista de urls do meu projeto
     
-    path('', ola_mundo),
-    #path == cria um caminho
-    #''   == pagina principal
-    #ola_mundo == função que será executada
+    path('', pagina_um, name='url_pagina_um'),
+    
+    
+    path('assuidade/', pagina_dois, name='url_pagina_dois')
 ]
 

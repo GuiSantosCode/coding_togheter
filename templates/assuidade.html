@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestão</title>
+    <link rel="stylesheet" href="{% static 'estilo.css' %}">
+
+</head>
+
+</head>
+
+<body>
+    <h1>Painel de presença</h1>
+
+    <h2>Progresso:</h2>
+
+    <h2>Faltas:</h2>
+
+    <!---barra lateral--->
+    <div class="barra lateral">
+        <a href="{% url 'url_pagina_um' %}" >Página um</a>
+        <a href="{% url 'url_pagina_dois' %}" class="ativo">Página dois</a>
+    </div>
+
+</body>
+</html>

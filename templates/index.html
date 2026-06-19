@@ -1,19 +1,31 @@
+{% load static %}
+<!--avisa que rodará arquivo estatico(css)-->
+
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>App de gestão acadêmica</title>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>App de gestão acadêmica</title>
+        <link rel="stylesheet" href="{% static 'estilo.css' %}">
+
 </head>
 
 <body>
+
     <h1>gestão</h1>
-    <h2>quadro geral</h2>
-    <p>{{disciplina}}</p>
+    <h2>Matérias:</h2>
+    
     <br>
-    <h2>estatísticas</h2>
-    <p>Total de aulas: {{total_de_aulas}}</p>
-    <p>Aulas concluídas: {{aulas_concluidas}}</p>
+    <h2>Aulas totais:</h2>
+    <p>0/10</p>
+    <h2>Progresso:</h2>
+    <p>0%</p>
+    <!---barra lateral--->
+    <div class="barra lateral">
+        <a href="{% url 'url_pagina_um' %}" class="ativo">Página um</a>
+        <a href="{% url 'url_pagina_dois' %}">Página dois</a>
+    </div>
 
 </body>
 </html>
