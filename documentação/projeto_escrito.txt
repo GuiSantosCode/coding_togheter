@@ -19,16 +19,30 @@ fazer sistema de checklist para cada arquivo, saber quantos arquivos tem por per
 Responsavel: Ruan
 
 fazer sistema de checklist de dia estudado:
+    quadro de presença:
+        com bolinhas para marcar os dias estudados e os não estudados
+            bolinhas com sistema de cores
+                azul = dia não util
+                cinza = falta comentar
+                verde = dia estudado 
+                vermelha = dia não estudado
 
-    com bolinhas para marcar os dias estudados e os não estudados
-        bolinhas com sistema de cores
-        opção de clicar no dia faltado e ver o motivo
+            opção de clicar no dia não comentado e registrar motivo
+            opção de clicar no dia faltado e ver o motivo
 
-    banco de dados de faltas
+        
+        com uma barrra de progresso que marca porcentagem de assuidez: 40%
+        dias totais: 25
+        informação de dias estudos para não estudados até a data atual: 10/15
+            
 
-    com uma barrra de progresso que marca porcentagem de assuidez
+    banco de dados:
+        dias estudados
+        dias não estudados
 
-    informação de dias estudados do total de dias ate a data atual - ex: 10/15
+
+    atividade atual: colocar calendario anual na web / camada de aplicação 
+        
 
 ------------------------------------------------------------------------------------------------------------------------
 
